@@ -25,7 +25,7 @@ import numpy as np
 plt.rcParams.update({'figure.max_open_warning': 0})
 
 """regression-based ERP estimation.
-    
+
 Minimal implementation of regression-based ERP (rERP) waveform estimation,
 as proposed in:
 
